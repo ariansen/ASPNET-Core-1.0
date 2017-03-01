@@ -1,0 +1,1 @@
+{"inputs":["C:\\Learn\\project.json","C:\\Learn\\project.lock.json","C:\\Learn\\Program.cs"],"outputs":["C:\\Learn\\bin\\Debug\\netcoreapp1.0\\Learn.dll","C:\\Learn\\bin\\Debug\\netcoreapp1.0\\Learn.pdb","C:\\Learn\\bin\\Debug\\netcoreapp1.0\\Learn.deps.json","C:\\Learn\\bin\\Debug\\netcoreapp1.0\\Learn.runtimeconfig.json"],"buildArguments":{"version-suffix":null}}
